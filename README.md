@@ -5,16 +5,16 @@ The robot's final position is marked with a red house.
 The robot's field has many walls.
 It is necessary to move the actor along it from the initial position to the final one. (see figures). 
 Solve the problem for all robot environments (write a common code). 
-The solution of the task is located in the file "Task-7-1.py".
+The solution of the task is located in the file "Task-7-2.py".
 
 
 RobotTask-7-2. Занятия по Python. Исполнитель Робот. Платформа StepInDev. Приложение с графическим интерфейсом пользователя.
-Поле робота имеет размеры: длина 6 клеток, ширина 6 клеток. Оно имеет синие стены по периметру. 
+Поле робота имеет размеры: длина 7 клеток, ширина 7 клеток. Оно имеет синие стены по периметру. 
 Синим квадратом помечено начальное положение робота. Конечное положение робота помечено красным домиком. 
 На поле робота много стен.
 Требуется переместить по нему исполнителя из начального положения в конечное. (см. рис.). 
 Решить задачу для всех обстановок робота (написать общий код). 
-Решение задачи находится в файле "Task-7-1.py".
+Решение задачи находится в файле "Task-7-2.py".
 
 
 
